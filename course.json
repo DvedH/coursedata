@@ -1,0 +1,33 @@
+[
+    {
+      "class": "Physics 121",
+      "teacher": "Susan W",
+      "Schedule": "TR 11:00-11:50 AM",
+      "Enrolled": 5,
+      "Capacity": 10
+    },
+
+    {
+      "class": "CS 106",
+      "teacher": "Ammon H",
+      "Schedule": "MWF 2:00-2:50 PM",
+      "Enrolled": 4,
+      "Capacity": 10
+    },
+
+    {
+      "class": "Math 101",
+      "teacher": "Ralph J",
+      "Schedule": "MWF 10:00-10:50 AM",
+      "Enrolled": 3,
+      "Capacity": 10
+    },
+
+    {
+      "class": "CS 162",
+      "teacher": "Ammon H",
+      "Schedule": "TR 3:00-3:50 PM",
+      "Enrolled": 4,
+      "Capacity": 4
+    }
+]
